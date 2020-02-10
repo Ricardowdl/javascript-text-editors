@@ -1,6 +1,6 @@
 {
   "name": "@netzon-oss/javascript-inline-editor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An extended editor from the inline editor build of CKEditor 5",
   "keywords": [
     "ckeditor5",
