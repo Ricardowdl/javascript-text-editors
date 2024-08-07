@@ -1,3 +1,25 @@
+// for rdl
+
+
+node -v  16.16.0
+
+npm install --force
+
+npm run build
+
+npm publish
+
+
+
+
+
+
+
+
+
+
+
+
 An extended editor from CKEditor 5 inline editor build
 ==============================================
 
